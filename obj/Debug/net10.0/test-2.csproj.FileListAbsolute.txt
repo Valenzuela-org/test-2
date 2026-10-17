@@ -1,0 +1,15 @@
+D:\Proyectos\C#\Test duo\test-2\bin\Debug\net10.0\test-2.exe
+D:\Proyectos\C#\Test duo\test-2\bin\Debug\net10.0\test-2.deps.json
+D:\Proyectos\C#\Test duo\test-2\bin\Debug\net10.0\test-2.runtimeconfig.json
+D:\Proyectos\C#\Test duo\test-2\bin\Debug\net10.0\test-2.dll
+D:\Proyectos\C#\Test duo\test-2\bin\Debug\net10.0\test-2.pdb
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.AssemblyInfo.cs
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.sourcelink.json
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.dll
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\refint\test-2.dll
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.pdb
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\test-2.genruntimeconfig.cache
+D:\Proyectos\C#\Test duo\test-2\obj\Debug\net10.0\ref\test-2.dll
